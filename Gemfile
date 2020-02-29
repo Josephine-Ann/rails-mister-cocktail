@@ -10,7 +10,7 @@ gem "pg"
 gem 'rails', '~> 5.2.3'
 # Use postgresql as the database for Active Record
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'carrierwave', '~> 1.2'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
